@@ -24,8 +24,8 @@
       Split shared expenses with friends on trips, at home or at events, and always know who owes whom.<br>
       <i>Tatilde, evde, etkinlikte ortak harcamaları arkadaşlarınla bölüş; kim kime ne kadar borçlu, Kişi Başı hesaplasın.</i><br>
       <sub>.NET MAUI · ASP.NET Core · SignalR · EF Core · MariaDB</sub><br>
-      <a href="https://cordeliasoftware.net/kisibasi?mgz=ios&amp;s=gh"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=appstore&amp;logoColor=white" alt="App Store" height="28"></a>
-      <a href="https://cordeliasoftware.net/kisibasi?mgz=android&amp;s=gh"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play" height="28"></a>
+      <a href="https://cordeliasoftware.net/kisibasi?mgz=ios&amp;s=gh"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
+      <a href="https://cordeliasoftware.net/kisibasi?mgz=android&amp;s=gh"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
     </td>
   </tr>
   <tr>
@@ -35,8 +35,8 @@
       Run football, basketball and volleyball leagues with friends: enter the score once, and standings, top scorers and player cards update themselves.<br>
       <i>Arkadaşlarınla futbol, basketbol ve voleybol ligleri kur; maçı bir kez gir, puan durumu, gol krallığı ve oyuncu kartları kendiliğinden güncellensin.</i><br>
       <sub>.NET MAUI · ASP.NET Core · EF Core · MariaDB · Firebase</sub><br>
-      <a href="https://cordeliasoftware.net/sporkolig?mgz=ios&amp;s=gh"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=appstore&amp;logoColor=white" alt="App Store" height="28"></a>
-      <a href="https://cordeliasoftware.net/sporkolig?mgz=android&amp;s=gh"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play" height="28"></a>
+      <a href="https://cordeliasoftware.net/sporkolig?mgz=ios&amp;s=gh"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
+      <a href="https://cordeliasoftware.net/sporkolig?mgz=android&amp;s=gh"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
     </td>
   </tr>
   <tr>
@@ -46,8 +46,8 @@
       Find on-duty pharmacies anywhere in Türkiye and Northern Cyprus: the nearest one on the map, one-tap call and directions.<br>
       <i>Türkiye ve KKTC'nin her yerinde nöbetçi eczaneyi bul; en yakını haritada, tek dokunuşla ara ve yol tarifi al.</i><br>
       <sub>.NET MAUI Maps · ASP.NET Core Minimal API · Worker Service · OSRM · MySQL</sub><br>
-      <a href="https://cordeliasoftware.net/nobetci?mgz=ios&amp;s=gh"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=appstore&amp;logoColor=white" alt="App Store" height="28"></a>
-      <a href="https://cordeliasoftware.net/nobetci?mgz=android&amp;s=gh"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play" height="28"></a>
+      <a href="https://cordeliasoftware.net/nobetci?mgz=ios&amp;s=gh"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
+      <a href="https://cordeliasoftware.net/nobetci?mgz=android&amp;s=gh"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
     </td>
   </tr>
   <tr>
@@ -57,8 +57,8 @@
       See the bill before you go: restaurant and café prices from real receipts shared by users.<br>
       <i>Gitmeden önce hesabı gör: restoran ve kafe fiyatları, kullanıcıların paylaştığı gerçek adisyonlardan.</i><br>
       <sub>.NET MAUI · ASP.NET Core · MariaDB · OCR (ML Kit / Apple Vision, Tesseract)</sub><br>
-      <a href="https://cordeliasoftware.net/hesapradari?mgz=ios&amp;s=gh"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=appstore&amp;logoColor=white" alt="App Store" height="28"></a>
-      <a href="https://cordeliasoftware.net/hesapradari?mgz=android&amp;s=gh"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play" height="28"></a>
+      <a href="https://cordeliasoftware.net/hesapradari?mgz=ios&amp;s=gh"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
+      <a href="https://cordeliasoftware.net/hesapradari?mgz=android&amp;s=gh"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
     </td>
   </tr>
   <tr>
@@ -68,8 +68,8 @@
       See the end of the month today: salary, rent, loans and cards in one plan; personal or shared family budget.<br>
       <i>Ay sonunu bugünden gör: maaş, kira, kredi ve kartlar tek planda; kişisel ya da ortak aile bütçesi.</i><br>
       <sub>.NET MAUI · ASP.NET Core · EF Core · MySQL · Firebase</sub><br>
-      <a href="https://cordeliasoftware.net/butceplanla?mgz=ios&amp;s=gh"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&amp;logo=appstore&amp;logoColor=white" alt="App Store" height="28"></a>
-      <a href="https://cordeliasoftware.net/butceplanla?mgz=android&amp;s=gh"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Google Play" height="28"></a>
+      <a href="https://cordeliasoftware.net/butceplanla?mgz=ios&amp;s=gh"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="40"></a>
+      <a href="https://cordeliasoftware.net/butceplanla?mgz=android&amp;s=gh"><img src="assets/google-play-badge.png" alt="Get it on Google Play" height="40"></a>
     </td>
   </tr>
 </table>
